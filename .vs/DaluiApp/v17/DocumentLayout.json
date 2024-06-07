@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|j:\\documentos-j\\microsoftejercicios\\daluiapp\\daluiapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|j:\\documentos-j\\microsoftejercicios\\daluiapp\\daluiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\daluiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43FE567-25C0-4D72-A1EB-3490ABB320C5}|DaluiApp\\DaluiApp.csproj|solutionrelative:daluiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\.gitignore",
+              "RelativeDocumentMoniker": "DaluiApp\\.gitignore",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\.gitignore",
+              "RelativeToolTip": "DaluiApp\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T18:18:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "DaluiApp\\AppShell.xaml.cs",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "DaluiApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:27:19.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "DaluiApp\\MauiProgram.cs",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\MauiProgram.cs",
+              "RelativeToolTip": "DaluiApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:24:01.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DaluiApp\\MainPage.xaml",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\MainPage.xaml",
+              "RelativeToolTip": "DaluiApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T17:22:43.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DaluiApp\\App.xaml.cs",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\App.xaml.cs",
+              "RelativeToolTip": "DaluiApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:59:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DaluiApp\\AppShell.xaml",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\AppShell.xaml",
+              "RelativeToolTip": "DaluiApp\\AppShell.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T18:59:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\App.xaml",
+              "RelativeDocumentMoniker": "DaluiApp\\App.xaml",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\App.xaml",
+              "RelativeToolTip": "DaluiApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T18:59:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "DaluiApp\\Views\\DashboardView.xaml",
+              "ToolTip": "J:\\Documentos-J\\microsoftejercicios\\DaluiApp\\DaluiApp\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "DaluiApp\\Views\\DashboardView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T18:55:51.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
